@@ -36,4 +36,4 @@ This repo features a dual-tiered Anagram Game in Python, designed for JupyterLab
 
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/YourUsername/Anagram-Game.git](https://github.com/YourUsername/Anagram-Game.git)
+   git clone [https://github.com/MalikSaadAlvi09/Anagram-Game.git](https://github.com/MalikSaadAlvi09/Anagram-Game.git)
